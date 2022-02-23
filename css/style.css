@@ -17,6 +17,9 @@
      height: 100vh;
      background: var(--verybarkblue);
 }
+h1{
+     z-index:-1;
+}
  p{
      color: var(--grayishblue);
      margin-bottom: 1rem;
